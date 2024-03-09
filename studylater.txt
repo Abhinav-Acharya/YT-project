@@ -1,0 +1,2 @@
+1. throw in a controller function
+2.asynchandler function
